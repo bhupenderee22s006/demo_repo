@@ -1,2 +1,3 @@
 # demo_repo
-My first git repository.
+My first git repository. 
+Author : Bhupender Singh
